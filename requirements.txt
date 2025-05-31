@@ -5,3 +5,4 @@ plotly==6.1.2
 scikit-learn
 folium
 streamlit-folium
+openpyxl
