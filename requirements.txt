@@ -1,0 +1,6 @@
+sklearn
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.0  # instead of 2.0.0rc1 or 2.2.6 for compatibility
+plotly==6.1.2
+scikit-learn==1.4.2
