@@ -1,7 +1,5 @@
-sklearn
 streamlit==1.45.1
 pandas==2.2.3
 numpy==1.26.4
 plotly==6.1.2
 scikit-learn
-
